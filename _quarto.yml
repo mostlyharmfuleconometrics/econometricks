@@ -4,8 +4,8 @@ project:
 
 website:
   title: "Tricks in Econometricks"
-  site-url: https://mostlyharmfuleconometrics.github.io/tricks-in-econometricks/
-  repo-url: https://github.com/mostlyharmfuleconometrics/tricks-in-econometricks
+  site-url: https://mostlyharmfuleconometrics.github.io/econometricks/
+  repo-url: https://github.com/mostlyharmfuleconometrics/econometricks
   repo-actions: [source, issue]
   navbar:
     left:
