@@ -13,6 +13,7 @@ website:
         text: Entries
   page-footer:
     center: "Tricks in Econometricks"
+  draft-mode: gone
 
 format:
   html:
